@@ -3,6 +3,7 @@
 # Final Project
 
 
+import csv
 
 # COMPILING A SYSTEM SCHEDULE
 
@@ -15,7 +16,6 @@ def systemSchedule(file):
     '''Given an input text file with the system schedule (stop_times.txt, as per GTFS standard), this function creates a dictionary with the system schedule.'''
     schedule = {} # will contain a system schedule
     # Structure: Route (1, 2, A, B, etc.) > Direction > Day of week (WKD, SAT, SUN) > Unique Train Identifier > Station > Time
-    import csv
     with open(file, 'rb') as csvfile:
         reader = csv.reader(csvfile)
         for row in reader:
