@@ -5,6 +5,6 @@ Here is the Python code from two course projects I did for [CS 931](http://cs.br
 
 The two projects were:
 
-*[Subway Showdown: Comparing Local and Express Train Times in NYC](https://sites.google.com/a/brown.edu/subway/)
+* [Subway Showdown: Comparing Local and Express Train Times in NYC](https://sites.google.com/a/brown.edu/subway/)
 
-*[The Rise of Senior Staff Writers](https://sites.google.com/a/brown.edu/ssw/)
+* [The Rise of Senior Staff Writers](https://sites.google.com/a/brown.edu/ssw/)
